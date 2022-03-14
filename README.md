@@ -8,3 +8,5 @@ Customer personality analysis helps a business to modify its product based on it
 Here is the link to the data used for the Visualization https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 Download and install Tableau to access document successfully
+Upload data to your Tableau and open .hyper file.
+You're good to go.
