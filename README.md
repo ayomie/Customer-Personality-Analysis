@@ -23,3 +23,5 @@ Outcome:
 5. All 2013 MARRIED who buys Fish and Meat products are likely to buy Wine products.
 
 For more details: https://lnkd.in/dDTArzVe
+
+Solved with TABLEAU
